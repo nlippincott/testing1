@@ -9,10 +9,10 @@ and outputs the sum of those two integers.
 Here is a sample run of the program:
 
 ```
-Enter first integer: 15
-Enter second integer: 22
+Enter first integer: 13
+Enter second integer: 23
 
-The sum is 37.
+The sum is 35.
 ```
 
 A source code file named *sample.cpp* is included in this project for you
