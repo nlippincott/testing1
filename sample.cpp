@@ -1,4 +1,4 @@
-// YOUR NAME HERE
+// Norm Lippincott
 #include <iostream>
 using namespace std;
 
